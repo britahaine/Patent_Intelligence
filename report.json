@@ -1,0 +1,129 @@
+{
+    "total_patents": 9454161,
+    "top_inventors": [
+        {
+            "name": "Shunpei Yamazaki",
+            "total_patents": 6787
+        },
+        {
+            "name": "Kia Silverbrook",
+            "total_patents": 4778
+        },
+        {
+            "name": "Tao Luo",
+            "total_patents": 4490
+        },
+        {
+            "name": "Jonathan P. Ive",
+            "total_patents": 2955
+        },
+        {
+            "name": "Junyi Li",
+            "total_patents": 2883
+        },
+        {
+            "name": "Kangguo Cheng",
+            "total_patents": 2835
+        },
+        {
+            "name": "Frederick E. Shelton, IV",
+            "total_patents": 2723
+        },
+        {
+            "name": "Peter Gaal",
+            "total_patents": 2554
+        },
+        {
+            "name": "Duncan Robert Kerr",
+            "total_patents": 2534
+        },
+        {
+            "name": "Bartley K. Andre",
+            "total_patents": 2478
+        }
+    ],
+    "top_companies": [
+        {
+            "name": "SAMSUNG DISPLAY CO., LTD.",
+            "total_patents": 174536
+        },
+        {
+            "name": "International Business Machines Corporation",
+            "total_patents": 164083
+        },
+        {
+            "name": "CANON KABUSHIKI KAISHA",
+            "total_patents": 91331
+        },
+        {
+            "name": "SONY GROUP CORPORATION",
+            "total_patents": 62911
+        },
+        {
+            "name": "Fujitsu Limited",
+            "total_patents": 56343
+        },
+        {
+            "name": "Kabushiki Kaisha Toshiba",
+            "total_patents": 53607
+        },
+        {
+            "name": "Intel Corporation",
+            "total_patents": 53219
+        },
+        {
+            "name": "General Electric Company",
+            "total_patents": 52043
+        },
+        {
+            "name": "LG ELECTRONICS INC.",
+            "total_patents": 50000
+        },
+        {
+            "name": "HITACHI, LTD.",
+            "total_patents": 46073
+        }
+    ],
+    "top_countries": [
+        {
+            "country": "US",
+            "total_patents": 4910902
+        },
+        {
+            "country": "JP",
+            "total_patents": 1559931
+        },
+        {
+            "country": "DE",
+            "total_patents": 587413
+        },
+        {
+            "country": "KR",
+            "total_patents": 413681
+        },
+        {
+            "country": "CN",
+            "total_patents": 403986
+        },
+        {
+            "country": "TW",
+            "total_patents": 294630
+        },
+        {
+            "country": "GB",
+            "total_patents": 257000
+        },
+        {
+            "country": "FR",
+            "total_patents": 241771
+        },
+        {
+            "country": "CA",
+            "total_patents": 236562
+        },
+        {
+            "country": "CH",
+            "total_patents": 111307
+        }
+    ]
+}
